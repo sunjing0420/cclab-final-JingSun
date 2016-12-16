@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "fireworks1::fireworks1(ofVec3f, ofVec3f):fireworks1.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "vel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Fireworks1::update():Fireworks1.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "velocity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "fireworks1::update():fireworks1.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "vel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ofApp::setup():ofApp.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
